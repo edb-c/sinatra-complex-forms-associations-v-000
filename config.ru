@@ -13,3 +13,4 @@ end
 use Rack::MethodOverride
 run ApplicationController
 run OwnersController
+run PetsController
